@@ -1,26 +1,7 @@
-# Chemie
+# Biologie
 
-**Chemie** je věda zabývající se vlastnostmi a chováním hmoty. Zjistěte o jejím původu, historii, základních pojmech, metodách a aplikacích v různých oborech.
+**Biologie** je věda zkoumající život. V nejširším slova smyslu je biologie vědní obor zabývající se organismy a vším, co s nimi souvisí, od chemických dějů v organismech probíhajících na úrovni atomů a molekul až po celé ekosystémy.
 
 ## Obsah
 
-- [Anorganická chemie](anorganická_chemie/úvod.md)
-  - [Základní pojmy](anorganická_chemie/úvod.md#základní-pojmy)
-  - [Co je anorganická chemie](anorganická_chemie/úvod.md#co-je-anorganická-chemie)
-  - [Anorganické látky](anorganická_chemie/úvod.md#anorganické-látky)
-  - [Chemické prvky](anorganická_chemie/úvod.md#chemické-prvky)
-  - [Anorganické sloučeniny](anorganická_chemie/úvod.md#anorganické-sloučeniny)
-  - Vlastnosti anorganických sloučenin
-  - Chemické názvy a chemické vzorce anorganických sloučenin
-  - Oxidační číslo
-  - Pravidla pro určování oxidačních čísel atomů prvků
-  - Vyjadřování oxidačního čísla v názvu sloučeniny
-  - Číslovkové předpony používané v názvosloví
-  - Názvy jednoduchých anorganických sloučenin
-  - Dvouprvkové (binární) sloučeniny vodíku (hydridy)
-  - [Oxidy](anorganická_chemie/oxidy.md)
-  - Halogenidy, sulfidy, hydroxidy a ostatní obdobné sloučeniny
-  - Názvosloví 
-    - kyselin
-    - iontů
-    - solí
+- [Biologie člověka](biologie_člověka/úvod.md)
