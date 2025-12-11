@@ -6,3 +6,4 @@
 
 - [Biologie buňky](biologie_buňky/úvod.md)
 - [Biologie člověka](biologie_člověka/úvod.md)
+- Genetika
