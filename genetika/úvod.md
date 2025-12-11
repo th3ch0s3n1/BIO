@@ -1,0 +1,3 @@
+[zpět](../README.md)
+
+# Genetika
