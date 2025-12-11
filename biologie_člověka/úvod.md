@@ -11,6 +11,7 @@
 ### Opěrná a pohybová soustava
 
 - **Klíčové pojmy:** 
+
   - tkáň pojivová (pojivo)
   - kost
   - osteocyty
@@ -22,13 +23,24 @@
   - lebka
   - stavební princip horní a dolní končetiny
   - tři typy svalstva
+
+  ------
+
+  
+
 - Pohyb je jednou z nejzákladnějších vlastností živočichů
+
 - **stažlivost - kontraktilita**
+
   - schopnost buněk tvořících svalstvo zkracovat a vyvíjet mechanické napětí
+
 - Kostra
+
   - pasivní pohybový aparát
   - poskytuje pevnou oporu
+
 - Svaly
+
   - aktivní pohybový aparát
 
 #### Opěrná soustava
