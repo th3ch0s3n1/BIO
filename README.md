@@ -7,3 +7,18 @@
 - [Biologie buňky](biologie_buňky/úvod.md)
 - [Biologie člověka](biologie_člověka/úvod.md)
 - [Genetika](genetika/úvod.md)
+
+## K vytisknutí
+
+- [Flashcards biologie](biology_flashcards.pdf)
+- [Flashcards biologie člověka](biologie_cloveka_flashcards.pdf)
+
+## Anki cards
+
+1. krok - stáhnout [zde](https://apps.ankiweb.net/) aplikaci Anki a nainstalovat ji *(PC/Mac/Android nebo iOS)*
+   - *Poznámka: verze pro iOS je placená*
+2. krok - stáhnout balíčky karet
+
+   - [anki_biology.apkg](anki/anki_biology.apkg)
+   - [anki_biologie_cloveka.apkg](anki/anki_biologie_cloveka.apkg)
+3. krok - naimportovat stažené balíčky do aplikace
