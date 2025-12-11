@@ -1,3 +1,3 @@
 [zpět](../README.md)
 
-# Biologie člověka
+# Biologie buňky
