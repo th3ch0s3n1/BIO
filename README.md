@@ -7,7 +7,7 @@
 - [Biologie buňky](biologie_buňky/úvod.md)
 - [Biologie člověka](biologie_člověka/úvod.md)
   - Soustavy lidského těla - anatomie a fyziologie 
-    - [Opěrná a pohybová soustava](opěrná_a_pohybová_soustava.md)
+    - [Opěrná a pohybová soustava](biologie_člověka/opěrná_a_pohybová_soustava.md)
     - Tělní tekutiny
     - Oběhová soustava
     - Dýchací soustava
