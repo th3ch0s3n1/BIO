@@ -2,6 +2,8 @@
 
 **Biologie** je věda zkoumající život. V nejširším slova smyslu je biologie vědní obor zabývající se organismy a vším, co s nimi souvisí, od chemických dějů v organismech probíhajících na úrovni atomů a molekul až po celé ekosystémy.
 
+![https://pixabay.com/photos/analysis-biochemistry-biologist-2030265/](img/analysis.jpg)
+
 ## Obsah
 
 - [Biologie buňky](01_biologie_buňky/01_úvod.md)
