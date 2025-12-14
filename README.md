@@ -39,3 +39,8 @@
    - [anki_biology.apkg](anki/anki_biology.apkg)
    - [anki_biologie_cloveka.apkg](anki/anki_biologie_cloveka.apkg)
 3. krok - naimportovat stažené balíčky do aplikace
+
+## Použité zdroje
+
+- [Biologie člověka pro gymnázia](https://www.databazeknih.cz/prehled-knihy/biologie-cloveka-pro-gymnazia-46201)
+- [Odmaturuj! z biologie](https://www.databazeknih.cz/prehled-knihy/odmaturuj-z-biologie-270243)
