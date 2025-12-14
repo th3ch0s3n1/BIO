@@ -4,10 +4,10 @@
 
 ## Obsah
 
-- [Biologie buňky](biologie_buňky/úvod.md)
-- [Biologie člověka](biologie_člověka/úvod.md)
+- [Biologie buňky](01_biologie_buňky/01_úvod.md)
+- [Biologie člověka](02_biologie_člověka/01_úvod.md)
   - Soustavy lidského těla - anatomie a fyziologie 
-    - [Opěrná a pohybová soustava](biologie_člověka/opěrná_a_pohybová_soustava.md)
+    - [Opěrná a pohybová soustava](02_biologie_člověka/02_opěrná_a_pohybová_soustava.md)
     - Tělní tekutiny
     - Oběhová soustava
     - Dýchací soustava
@@ -21,7 +21,7 @@
     - Smyslové orgány
     - Rozmnožování
   
-- [Genetika](genetika/úvod.md)
+- [Genetika](03_genetika/úvod.md)
 
 ## K vytisknutí
 
