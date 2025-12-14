@@ -42,5 +42,5 @@
 
 ## Použité zdroje
 
-- [Biologie člověka pro gymnázia](https://www.databazeknih.cz/prehled-knihy/biologie-cloveka-pro-gymnazia-46201)
-- [Odmaturuj! z biologie](https://www.databazeknih.cz/prehled-knihy/odmaturuj-z-biologie-270243)
+- [Biologie člověka pro gymnázia - 6. vydání](https://www.databazeknih.cz/prehled-knihy/biologie-cloveka-pro-gymnazia-46201)
+- [Odmaturuj! z biologie - 2. vydání](https://www.databazeknih.cz/prehled-knihy/odmaturuj-z-biologie-270243)
