@@ -44,3 +44,4 @@
 
 - [Biologie člověka pro gymnázia - 6. vydání](https://www.databazeknih.cz/prehled-knihy/biologie-cloveka-pro-gymnazia-46201)
 - [Odmaturuj! z biologie - 2. vydání](https://www.databazeknih.cz/prehled-knihy/odmaturuj-z-biologie-270243)
+- [Obecná biologie - Evoluce, biologie buňky, genetika - 4. vydání](https://www.databazeknih.cz/prehled-knihy/obecna-biologie-evoluce-biologie-bunky-genetika-46220)
