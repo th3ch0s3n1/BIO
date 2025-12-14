@@ -2,138 +2,192 @@
 
 # Opěrná a pohybová soustava
 
-- **Klíčové pojmy:** 
+## Základní charakteristika
 
-  - tkáň pojivová (pojivo)
-  - kost
-  - osteocyty
-  - kostní dřeň
-  - růstová chrupavka
-  - kloub
-  - páteř
-  - obratel
-  - lebka
-  - stavební princip horní a dolní končetiny
-  - tři typy svalstva
+* Pohyb je jednou z nejzákladnějších vlastností živočichů.
 
-  ------
+* **Stažlivost (kontraktilita)** je schopnost buněk tvořících svalovou tkáň se zkracovat a vyvíjet mechanické napětí.
 
-- Pohyb je jednou z nejzákladnějších vlastností živočichů
+* **Kostra**
 
-- **stažlivost - kontraktilita**
+  * tvoří pasivní pohybový aparát
+  * poskytuje tělu pevnou oporu
 
-  - schopnost buněk tvořících svalstvo zkracovat a vyvíjet mechanické napětí
+* **Svaly**
 
-- Kostra
+  * tvoří aktivní pohybový aparát
 
-  - pasivní pohybový aparát
-  - poskytuje pevnou oporu
+## Klíčové pojmy
 
-- Svaly
+* tkáň pojivová (pojivo)
+* kost
+* osteocyty
+* kostní dřeň
+* růstová chrupavka
+* kloub
+* páteř
+* obratel
+* lebka
+* stavební princip horní a dolní končetiny
+* tři typy svalstva
 
-  - aktivní pohybový aparát
+---
 
 ## Opěrná soustava
 
-- základem je <u>kostra</u>
-- kostra je složena převážně z kostí
-  - některé kosti slouží jako ochranná pouzdra pro životně důležité orgány
-    - kostra hrudníku chrání plíce a srdce
-    - lebka mozek a smyslové orgány
+* základem opěrné soustavy je **kostra**
+* kostra je tvořena převážně kostmi
+* některé kosti plní ochrannou funkci:
 
-**Pojivové tkáně opěrné soustavy**
+  * kostra hrudníku chrání plíce a srdce
+  * lebka chrání mozek a smyslové orgány
 
--  ke kostře patří nejen kosti, ale i **vazivo** (vazy, šlachy) a **chrupavky**
-  - vazy spojují jednotlivé kosti
-  - šlachy připojují ke kostem svaly
-  - chrupavky pokrývají styčné plochy kostí v kloubech
-    - spojují některé kosti
-    - tvoří meziobratlové ploténky
-- vazivo, chrupavka a kosti jsou tkáně
-  - **tkáně pojivové - pojiva**
-    - zde vytvářejí tkáňové buňky značné množství *mezibuněčné hmoty*
-      - má dvě složky:
-        - *základní hmota*
-          - beztvará - amorfní hmota
-          - tvořena polysacharidy a bílkovinami
-        - *vlákna*
-          - vláknitá složka je buď
-            - velmi pevná
-              - tvořená kolagenem (kolagenní vlákna)
-            - velmi pružná
-              - tvořená elastinem (elastická vlákna)
-          - oba druhy vláken jsou po chemické stránce glykoproteiny
-            - nejrozšířenější bílkoviny v těle (30 % až 40 % všech bílkovin)
-    - podle povahy mezibuněčné hmoty je
-      - vazivová tkáň spíše měkká
-      - chrupavka tuhá
-      - kosti tvrdé
-    - *nejtvrdším typem pojiva je zubní sklovina*
+### Pojivové tkáně opěrné soustavy
 
-**Stavba kostí**
+* ke kostře patří nejen kosti, ale také:
 
-- každá kost se skládá ze tří rozdílných složek:
-  - **vazivové okostice na povrchu**
-  - **vlastní kostní tkáně**
-  - **kostní dřeně**
-- osteoblasty
-  - buňky
-  - vytvářejí mezibuněčnou hmotu kostní tkáně při růstu kostí
-- osteocyty
-  - kostní buňky 
-  - v kosti již definitivně vytvořené
-  - jsou uloženy v komůrkách zvápenatělé mezibuněčné hmoty
-- mezibuněčná hmota se skládá z
-  - organické složky
-    - kolagenní vlákno
-      - jako v jiných pojivech
-  - anorganické složky
-    - anorganické látky, jako fosforečnan vápenatý a v menší míře uhličitan vápenatý
-      - ukládají se v podobě mikrokrystalů na povrchu kolagenních vláken tvořících svazky
-    - mezibuněčná anorganická hmota 
-      - tvoří 65 % hmotnosti kosti
-      - způsobuje její tvrdost
-    - vápenaté anorganické soli představují největší zásobárnu vápníku v těle (asi 99 %)
-    - v dětství
-      - je v kosti velké množství kolagenních vláken
-        - proto je kost dost pružná
-    - ve stáří
-      - převládají minerální látky
-        - kosti jsou tvrdší a také křehčí
-      - objevuje se osteoporóza
-        - onemocnění
-        - úbytek kostní hmoty - řídnutí kostí
-        - vyšší riziko zlomenin
-        - prevence
-          - dostatek vápníku, vitaminu D a pohybu
+  * **vazivo** (vazy a šlachy)
+  * **chrupavky**
 
-- dlouhá kost
-  - má 
-    - středí trubicovitou část (diafýzu)
-    - rozšířené kloubní konce (epifýzy)
-  - na příčném řezu střední části vidíme
-    - jednak ploché
-    - jednak soustředěně uspořádané destičky kostní tkáně (lamely)
-  - uprostřed koncentricky uspořádaných lamel pozorujeme
-    - *Haversovy* kanálky
-      - procházejí jimi nervy a cévy
-        - kost je metabolicky aktivnější tkáň než chrupavka, která nemá přímé cévní zásobení
-      - probíhají souběžně s delší osou kosti
-      - lamely kolem kanálku jsou tvořeny
-        - několika vrstvami ovinutými kolagenními vlákny zpevněnými krystalky soli
-          - struktura připomíná letokruhy v kmenu stromů
-        - v lamelách jsou malé komůrky
-          - jsou v nich uloženy *kostní buňky*
-      - kolem Haversových kanálků jsou uspořádány koncentricky (soustředěně) a jsou mezi sebou spojeny kanálky
-        - těmi je zajišťována výživa kosti
-        - jsou odváděny zplodiny metabolismu
-    - Haversův systém
-      - celá struktura kolem jednoho Haversova kanálku tvoří stavební jednotku kosti
+* funkce jednotlivých složek:
 
-**Kostní tkáň**
+  * **vazy** spojují jednotlivé kosti
+  * **šlachy** připojují svaly ke kostem
+  * **chrupavky**:
 
-- rozlišujeme kostní tkáň
-  - hutnou (kompakta)
-    - 
-  - houbovitou (spongióza)
-    - 
+    * pokrývají styčné plochy kostí v kloubech
+    * spojují některé kosti
+    * tvoří meziobratlové ploténky
+
+* vazivo, chrupavka i kost patří mezi **pojivové tkáně (pojiva)**
+
+#### Mezibuněčná hmota pojiv
+
+* buňky pojivových tkání vytvářejí značné množství **mezibuněčné hmoty**, která se skládá ze dvou složek:
+
+1. **Základní hmota**
+
+   * beztvará (amorfní)
+   * tvořená polysacharidy a bílkovinami
+
+2. **Vlákna**
+
+   * kolagenní vlákna
+
+     * velmi pevná
+     * tvořená kolagenem
+   * elastická vlákna
+
+     * velmi pružná
+     * tvořená elastinem
+   * oba typy vláken jsou chemicky glykoproteiny
+
+     * tvoří nejrozšířenější bílkoviny v těle (30–40 % všech bílkovin)
+
+* podle povahy mezibuněčné hmoty rozlišujeme:
+
+  * vazivo – spíše měkké
+  * chrupavku – tuhou
+  * kost – tvrdou
+
+* **nejtvrdším typem pojiva je zubní sklovina**
+
+---
+
+## Stavba kostí
+
+* každá kost se skládá ze tří základních složek:
+
+  * **okostice** (vazivový obal na povrchu kosti)
+  * **vlastní kostní tkáně**
+  * **kostní dřeně**
+
+### Kostní buňky
+
+* **osteoblasty**
+
+  * buňky, které vytvářejí mezibuněčnou hmotu kostní tkáně při růstu kostí
+
+* **osteocyty**
+
+  * definitivně vytvořené kostní buňky
+  * jsou uloženy v komůrkách zvápenatělé mezibuněčné hmoty
+
+### Mezibuněčná hmota kostní tkáně
+
+* skládá se ze dvou složek:
+
+1. **Organická složka**
+
+   * kolagenní vlákna
+   * zajišťují pružnost kosti
+
+2. **Anorganická složka**
+
+   * především fosforečnan vápenatý, méně uhličitan vápenatý
+   * ukládají se ve formě mikrokrystalů na povrchu kolagenních vláken
+   * tvoří přibližně 65 % hmotnosti kosti
+   * způsobují tvrdost kosti
+
+* vápenaté soli v kostech představují největší zásobárnu vápníku v těle (asi 99 %)
+
+* změny v průběhu života:
+
+  * **v dětství**
+
+    * vyšší podíl kolagenních vláken
+    * kosti jsou pružnější
+  * **ve stáří**
+
+    * převaha minerálních látek
+    * kosti jsou tvrdší a křehčí
+    * může se objevit **osteoporóza**
+
+      * úbytek kostní hmoty
+      * zvýšené riziko zlomenin
+      * prevence: dostatek vápníku, vitaminu D a pohybu
+
+---
+
+## Dlouhá kost
+
+* skládá se z:
+
+  * **diafýzy** – střední trubicovitá část
+  * **epifýz** – rozšířené kloubní konce
+
+* v příčném řezu diafýzou pozorujeme:
+
+  * ploché a soustředně uspořádané destičky kostní tkáně (**lamely**)
+
+### Haversův systém
+
+* uprostřed koncentricky uspořádaných lamel se nachází **Haversovy kanálky**:
+
+  * obsahují nervy a cévy
+  * probíhají souběžně s podélnou osou kosti
+
+* význam:
+
+  * zajišťují výživu kostní tkáně
+  * odvádějí zplodiny metabolismu
+  * dokládají, že kost je metabolicky aktivnější než chrupavka (ta nemá přímé cévní zásobení)
+
+* lamely:
+
+  * tvořeny několika vrstvami kolagenních vláken zpevněných krystaly solí
+  * uspořádání připomíná letokruhy stromu
+  * obsahují drobné komůrky s kostními buňkami
+
+* **Haversův systém**:
+
+  * stavební jednotka kosti tvořená jedním Haversovým kanálkem a okolními lamelami
+
+---
+
+## Kostní tkáň
+
+* rozlišujeme dva základní typy:
+
+  * **hutná (kompaktní)**
+  * **houbovitá (spongiózní)**
